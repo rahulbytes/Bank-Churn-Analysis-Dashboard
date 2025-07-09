@@ -79,6 +79,3 @@ The dataset contains information about 10,000 customers with the following field
 1. Open the Power BI (.pbix) file in Power BI Desktop.
 2. Explore the dashboard and interact with slicers to filter by Geography and Gender.
 3. Use the insights to identify high-risk customer groups and strategize retention actions.
-
----
-# Bank-Churn-Analysis-Dashboard
